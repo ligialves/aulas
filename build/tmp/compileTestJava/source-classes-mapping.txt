@@ -1,0 +1,32 @@
+webTests/comprarCursoCS.java
+ webTests.comprarCursoCS
+webTests/seleniumSimples.java
+ webTests.seleniumSimples
+apiTests/User.java
+ apiTests.User
+webTests/seleniumIDE.java
+ webTests.seleniumIDE
+stepsPOEN/comprarCursoPOEN.java
+ stepsPOEN.comprarCursoPOEN
+pages/Home.java
+ pages.Home
+stepsPOEN/RunnerEN.java
+ stepsPOEN.RunnerEN
+stepsPO/Runner.java
+ stepsPO.Runner
+unitTests/TestaCalc.java
+ unitTests.TestaCalc
+stepsPO/comprarCursoPO.java
+ stepsPO.comprarCursoPO
+utils/Evidencias.java
+ utils.Evidencias
+pages/Resultado.java
+ pages.Resultado
+apiTests/Pet.java
+ apiTests.Pet
+utils/Logs.java
+ utils.Logs
+stepsPO/Hooks.java
+ stepsPO.Hooks
+pages/Carrinho.java
+ pages.Carrinho
