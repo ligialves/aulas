@@ -47,3 +47,5 @@ public class SampleTest {
         driver.quit();
     }
 }
+
+// copiado do appium
