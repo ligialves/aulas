@@ -48,7 +48,8 @@ public class Calc {
                 desiredCapabilities.setCapability("SAUCE_USERNAME", "dh04iterasys");
                 desiredCapabilities.setCapability("SAUCE_ACCESS_KEY", "6b3d69e3-3a5f-414a-8277-f4976c7e4888");
 
-                remoteUrl = new URL("https://dh04iterasys:6b3d69e3-3a5f-414a-8277-f4976c7e4888@ondemand.us-west-1.saucelabs.com:443/wd/hub");
+                remoteUrl = new URL("\n" +
+                        "https://svlabs-02:bdf4d98b-7ebb-47a6-9507-2d26efd5fca4@ondemand.us-west-1.saucelabs.com:443/wd/hub");  // <----------minha credential
                 break;
             default:
                 remoteUrl = new URL("http://localhost:4723/wd/hub");
