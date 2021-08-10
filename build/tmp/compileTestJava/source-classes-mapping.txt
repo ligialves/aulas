@@ -1,3 +1,5 @@
+pages/Carrinho.java
+ pages.Carrinho
 webTests/comprarCursoCS.java
  webTests.comprarCursoCS
 webTests/seleniumSimples.java
@@ -28,5 +30,5 @@ utils/Logs.java
  utils.Logs
 stepsPO/Hooks.java
  stepsPO.Hooks
-pages/Carrinho.java
- pages.Carrinho
+mobileTests/Calc.java
+ mobileTests.Calc
